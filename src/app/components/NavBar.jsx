@@ -14,7 +14,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-bold text-blue-600">
-              MyApp
+              SaleSphere
             </Link>
           </div>
 
