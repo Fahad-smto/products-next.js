@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Gaming Laptop",
+    "description": "High-performance laptop with latest graphics card and SSD storage.",
+    "price": 1500,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1612831662405-40325e3a3b0e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Smartphone Pro",
+    "description": "Latest smartphone with cutting-edge features and sleek design.",
+    "price": 999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9e7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling headphones with long battery life and comfy fit.",
+    "price": 199,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1580894908361-3df1c5f57c18?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "4",
+    "name": "4K Monitor",
+    "description": "Ultra HD monitor for work and gaming with vibrant colors.",
+    "price": 450,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1612831455541-26b0d6b83a9b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Smartwatch X",
+    "description": "Track your health and notifications on the go with style.",
+    "price": 299,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1603570412864-8dbf4b1d1446?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "6",
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with amazing sound quality and bass.",
+    "price": 120,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1591701372211-b8f2df1f7a57?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "7",
+    "name": "DSLR Camera",
+    "description": "Professional DSLR for photography enthusiasts.",
+    "price": 950,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1583337130417-269b8853d21e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "8",
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard for gaming and typing.",
+    "price": 150,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587202372775-0eb1e5a7a93e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "9",
+    "name": "Gaming Mouse",
+    "description": "Ergonomic mouse with high-precision sensor for gamers.",
+    "price": 80,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587815121904-636a810f8f90?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "10",
+    "name": "Laptop Stand",
+    "description": "Adjustable laptop stand for comfortable working posture.",
+    "price": 45,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1598300055420-0f759f4c11d2?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "11",
+    "name": "Tablet Pro",
+    "description": "High-resolution tablet for work, drawing, and entertainment.",
+    "price": 650,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1612831455691-3f8f3c2f4b4e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "12",
+    "name": "Fitness Tracker",
+    "description": "Monitor your daily activities and health metrics.",
+    "price": 99,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1603791440372-0f83b2a36c9c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "13",
+    "name": "Portable Charger",
+    "description": "High-capacity power bank for all your devices.",
+    "price": 60,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1589571894960-20bbe2828d16?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "14",
+    "name": "Drone X",
+    "description": "Capture stunning aerial photos and videos easily.",
+    "price": 1200,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1596125673451-d0a1fef9d2fc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "15",
+    "name": "VR Headset",
+    "description": "Immerse yourself in virtual reality gaming and experiences.",
+    "price": 450,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1612831455633-5b3a2d7b2f09?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "16",
+    "name": "Smart Home Hub",
+    "description": "Control all your smart home devices from one hub.",
+    "price": 180,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1589571894961-2f3d6e7b35f0?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "17",
+    "name": "Wireless Charger",
+    "description": "Fast charging pad for all Qi-enabled devices.",
+    "price": 40,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1583337130421-b5c6e42f8a9f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "18",
+    "name": "Action Camera",
+    "description": "Capture your adventures in high-definition video.",
+    "price": 350,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1596125673453-d3b1e3f0a5ec?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "19",
+    "name": "E-Reader",
+    "description": "Read your favorite books anywhere with this lightweight e-reader.",
+    "price": 120,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1603783521930-1a02e9b2c5a7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "20",
+    "name": "Smart Light Bulb",
+    "description": "Control your lights with app or voice commands.",
+    "price": 25,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1596125673440-b5b2d1a3d2b5?auto=format&fit=crop&w=600&q=80"
+  }
+]
